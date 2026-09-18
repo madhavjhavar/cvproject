@@ -1,2 +1,0 @@
-# cvproject
-cv project
